@@ -1,0 +1,13 @@
+{
+  "generator-springboot": {
+    "appName": "myfuzzy-logic",
+    "packageName": "me.sathish.fuzzy",
+    "databaseType": "mariadb",
+    "dbMigrationTool": "flywaydb",
+    "dbMigrationFormat": "yaml",
+    "features": [],
+    "buildTool": "maven",
+    "packageFolder": "me/sathish/fuzzy",
+    "flywayMigrationCounter": 1
+  }
+}
